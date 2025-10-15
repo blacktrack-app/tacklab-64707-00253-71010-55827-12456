@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import trackLabLogo from "@/assets/trackhub-logo.png";
+import trackLabLogo from "@/assets/trackhub-new-logo.png";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

@@ -1,5 +1,5 @@
 import { Instagram, Linkedin, MessageCircle } from "lucide-react";
-import trackLabLogo from "@/assets/trackhub-logo.png";
+import trackLabLogo from "@/assets/trackhub-new-logo.png";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
